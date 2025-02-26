@@ -1,0 +1,16 @@
+<script>start("d:\\Users\\Shivam Gupta\\Contacts\\chai.aur.react\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("01basicreact","01basicreact",1,0,"0 B",1730278771,"10/30/24, 2:29:31 PM");</script>
+<script>addRow("01vitereact","01vitereact",1,0,"0 B",1730477010,"11/1/24, 9:33:30 PM");</script>
+<script>addRow("02counter","02counter",1,0,"0 B",1731096013,"11/9/24, 1:30:13 AM");</script>
+<script>addRow("03tailwindcss","03tailwindcss",1,0,"0 B",1731517274,"11/13/24, 10:31:14 PM");</script>
+<script>addRow("04bgcolor","04bgcolor",1,0,"0 B",1731917373,"11/18/24, 1:39:33 PM");</script>
+<script>addRow("05passwordGenerator","05passwordGenerator",1,0,"0 B",1732182076,"11/21/24, 3:11:16 PM");</script>
+<script>addRow("06currencycoverter","06currencycoverter",1,0,"0 B",1732441860,"11/24/24, 3:21:00 PM");</script>
+<script>addRow("07currencyconverter","07currencyconverter",1,0,"0 B",1733673165,"12/8/24, 9:22:45 PM");</script>
+<script>addRow("08reactrouter","08reactrouter",1,0,"0 B",1738695022,"2/5/25, 12:20:22 AM");</script>
+<script>addRow("09minicontext","09minicontext",1,0,"0 B",1738166232,"1/29/25, 9:27:12 PM");</script>
+<script>addRow("10themeswitcher","10themeswitcher",1,0,"0 B",1739278692,"2/11/25, 6:28:12 PM");</script>
+<script>addRow("11todocontextLocal","11todocontextLocal",1,0,"0 B",1739278925,"2/11/25, 6:32:05 PM");</script>
+<script>addRow("customReact","customReact",1,0,"0 B",1730562100,"11/2/24, 9:11:40 PM");</script>
+<script>addRow("package-lock.json","package-lock.json",0,93,"93 B",1731327923,"11/11/24, 5:55:23 PM");</script>
